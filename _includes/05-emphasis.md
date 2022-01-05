@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# _Skills_
+Belos is the list of **_skills_**:
+# _Programing languages_
+- JCL
+- Cobol
+# _Collabration_
+- Github
+- Git
+
